@@ -1,5 +1,9 @@
 {
   "settingsInheritedFrom": "DimaMend/whitesource-config@main",
+  "scanSettings": {
+    "enableReachability": true,
+    "exploitability": true
+  },
   "remediateSettings": {
     "workflowRules": {
       "enabled": false
